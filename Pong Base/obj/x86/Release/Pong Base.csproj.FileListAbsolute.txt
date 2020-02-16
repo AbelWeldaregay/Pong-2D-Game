@@ -1,0 +1,134 @@
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\ball.xnb
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\numbers.xnb
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\paddle.xnb
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\Pong Base.exe
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\Pong Base.pdb
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\obj\x86\Release\Pong Base.csproj.CoreCompileInputs.cache
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\obj\x86\Release\Pong Base.csproj.CopyComplete
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\obj\x86\Release\Pong Base.exe
+C:\Users\Yuzhong Shen\Documents\Courses\MSIM 408\2019\New Programming Assignments\Pong Base\Pong Base\obj\x86\Release\Pong Base.pdb
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\ball.xnb
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\numbers.xnb
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\paddle.xnb
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\Pong Base.exe
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\Pong Base.pdb
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\obj\x86\Release\Pong Base.csprojAssemblyReference.cache
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\obj\x86\Release\Pong Base.csproj.CoreCompileInputs.cache
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\obj\x86\Release\Pong Base.csproj.CopyComplete
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\obj\x86\Release\Pong Base.exe
+C:\Users\Yuzhong\Dropbox\Project\Courses\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\obj\x86\Release\Pong Base.pdb
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\ball.xnb
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\numbers.xnb
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\paddle.xnb
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\Pong Base.exe
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\Pong Base.pdb
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\obj\x86\Release\Pong Base.csprojAssemblyReference.cache
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\obj\x86\Release\Pong Base.csproj.CoreCompileInputs.cache
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\obj\x86\Release\Pong Base.csproj.CopyComplete
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\obj\x86\Release\Pong Base.exe
+C:\Users\Yuzhong\Documents\Courses\ODU\MSIM 408\2019\New Programming Assignments\MonoGame\Pong Base\Pong Base\obj\x86\Release\Pong Base.pdb
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\ball.xnb
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\numbers.xnb
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\paddle.xnb
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\Pong Base.exe
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\Pong Base.pdb
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\MonoGame.Framework.dll
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.dll
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.DXGI.dll
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XInput.dll
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\MonoGame.Framework.xml
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.xml
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.DXGI.xml
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XInput.xml
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\obj\x86\Release\Pong Base.csprojAssemblyReference.cache
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\obj\x86\Release\Pong Base.csproj.CoreCompileInputs.cache
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\obj\x86\Release\Pong Base.csproj.CopyComplete
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\obj\x86\Release\Pong Base.exe
+D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong Base\obj\x86\Release\Pong Base.pdb
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\ball.xnb
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\paddle.xnb
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\numbers.xnb
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\Pong Base.exe
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\Pong Base.pdb
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\MonoGame.Framework.dll
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.dll
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.DXGI.dll
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XInput.dll
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\MonoGame.Framework.xml
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.xml
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.DXGI.xml
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\SharpDX.XInput.xml
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\obj\x86\Release\Pong Base.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\obj\x86\Release\Pong Base.csproj.CopyComplete
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\obj\x86\Release\Pong Base.exe
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\obj\x86\Release\Pong Base.pdb
