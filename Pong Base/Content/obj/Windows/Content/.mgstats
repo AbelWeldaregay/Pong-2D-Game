@@ -1,4 +1,5 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"V:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/ball.bmp","V:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/media/ball.xnb","TextureProcessor","Texture2DContent",774,985,1.292998
-"V:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/numbers.bmp","V:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/media/numbers.xnb","TextureProcessor","Texture2DContent",101454,135085,0.0150039
-"V:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/paddle.bmp","V:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/media/paddle.xnb","TextureProcessor","Texture2DContent",4854,6085,0.0160009
+"Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/ball.bmp","Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/media/ball.xnb","TextureProcessor","Texture2DContent",774,985,0.6719286
+"Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/ball_red.png","Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/media/ball_red.xnb","TextureProcessor","Texture2DContent",10298,65621,0.1874984
+"Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/numbers.bmp","Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/media/numbers.xnb","TextureProcessor","Texture2DContent",101454,135085,0.0156494
+"Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/paddle.bmp","Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/media/paddle.xnb","TextureProcessor","Texture2DContent",4854,6085,0

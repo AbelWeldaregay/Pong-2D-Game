@@ -151,7 +151,7 @@ namespace Ping_Pong
         {
             // load the texture for the ball
             m_textureBall =
-                Content.Load<Texture2D>(@"media\ball");
+                Content.Load<Texture2D>(@"media\ball_red");
             m_ball.Visual = m_textureBall;
 
             // load the texture for the paddles

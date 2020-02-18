@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/numbers.bmp</SourceFile>
-  <SourceTime>2018-05-07T03:26:02-04:00</SourceTime>
-  <DestFile>Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/media/numbers.xnb</DestFile>
-  <DestTime>2020-02-17T22:34:32.1991402-05:00</DestTime>
+  <SourceFile>Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/ball_red.png</SourceFile>
+  <SourceTime>2020-02-16T13:27:20.9719917-05:00</SourceTime>
+  <DestFile>Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/media/ball_red.xnb</DestFile>
+  <DestTime>2020-02-17T22:58:01.5847729-05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -4,8 +4,12 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+    <File>//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/ball_red.png</File>
     <File>C:/Users/Yuzhong/Documents/Courses/ODU/MSIM 408/2019/New Programming Assignments/MonoGame/Pong Base/Pong Base/Content/media/ball.bmp</File>
     <File>C:/Users/Yuzhong/Documents/Courses/ODU/MSIM 408/2019/New Programming Assignments/MonoGame/Pong Base/Pong Base/Content/media/numbers.bmp</File>
     <File>C:/Users/Yuzhong/Documents/Courses/ODU/MSIM 408/2019/New Programming Assignments/MonoGame/Pong Base/Pong Base/Content/media/paddle.bmp</File>
   </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
 </SourceFileCollection>
