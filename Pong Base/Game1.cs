@@ -18,8 +18,9 @@ namespace Ping_Pong
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         private SpriteFont scoreFont;
-        private SoundEffect song;
-
+        private SoundEffect beep;
+        private Song scoreSound;
+        
         // the score
         int m_Score1 = 0;
         int m_Score2 = 0;
@@ -143,7 +144,8 @@ namespace Ping_Pong
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            song = Content.Load<SoundEffect>("beep");
+            beep = Content.Load<SoundEffect>("beep");
+            scoreSound = Content.Load<Song>("score_sound");
             // load images from disk
             LoadGameGraphics();
         }
@@ -210,7 +212,7 @@ namespace Ping_Pong
             {
                 // reverse vertical direction
                 m_ball.DY *= -1;
-                song.Play();
+                beep.Play();
                 
             }
 
@@ -223,7 +225,7 @@ namespace Ping_Pong
 
                 // increment player 2's score
                 m_Score2++;
-
+                MediaPlayer.Play(scoreSound);
                 // reduce speed, reverse direction
                 m_ball.DX = 5.0f;
             }
@@ -237,7 +239,7 @@ namespace Ping_Pong
 
                 // increment player 1's score
                 m_Score1++;
-
+                MediaPlayer.Play(scoreSound);
                 // reduce speed, reverse direction
                 m_ball.DX = -5.0f;
             }

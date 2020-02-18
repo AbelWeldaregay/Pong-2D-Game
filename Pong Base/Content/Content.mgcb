@@ -74,3 +74,9 @@
 /processorParam:TextureFormat=Compressed
 /build:Score.spritefont
 
+#begin score_sound.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:score_sound.mp3
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>V:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/score_sound.mp3</SourceFile>
+  <SourceTime>2020-02-18T18:14:54.5343709-05:00</SourceTime>
+  <DestFile>V:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/score_sound.xnb</DestFile>
+  <DestTime>2020-02-18T18:23:06.3563992-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>V:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/score_sound.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
