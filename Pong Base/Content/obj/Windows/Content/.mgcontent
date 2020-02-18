@@ -8,8 +8,10 @@
     <File>Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/ball_red.png</File>
     <File>Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/numbers.bmp</File>
     <File>Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/paddle.bmp</File>
+    <File>Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/Score.spritefont</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

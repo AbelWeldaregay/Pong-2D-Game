@@ -17,6 +17,7 @@ namespace Ping_Pong
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        private SpriteFont scoreFont;
 
         // the score
         int m_Score1 = 0;
@@ -153,7 +154,7 @@ namespace Ping_Pong
             m_textureBall =
                 Content.Load<Texture2D>(@"media\ball_red");
             m_ball.Visual = m_textureBall;
-
+            scoreFont = Content.Load<SpriteFont>("Score");
             // load the texture for the paddles
             m_texturePaddle =
                 Content.Load<Texture2D>(@"media\paddle");
@@ -239,7 +240,7 @@ namespace Ping_Pong
             }
 
             // reset game if a player scores 10 goals
-            if (m_Score1 > 9 || m_Score2 > 9)
+            if (m_Score1 > 99 || m_Score2 > 99)
             {
                 ResetGame();
             }
@@ -376,10 +377,12 @@ namespace Ping_Pong
         // draw the score at the specified location
         public void DrawScore(float x, float y, int score)
         {
-            spriteBatch.Draw((Texture2D)m_textureNumbers,
+            spriteBatch.DrawString(scoreFont, score.ToString(), new Vector2(x, y), Color.Black);
+            
+           /* spriteBatch.Draw((Texture2D)m_textureNumbers,
                 new Vector2(x, y),
                 m_ScoreRect[score % 10],
-                Color.Red);
+                Color.Red);*/
         }
 
         // actually draw our game objects

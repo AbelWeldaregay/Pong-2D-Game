@@ -1,2 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
 "//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/ball_red.png","//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/media/ball_red.xnb","TextureProcessor","Texture2DContent",10298,65621,0.6030408
+"//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/Score.spritefont","//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2005,136209,1.556172

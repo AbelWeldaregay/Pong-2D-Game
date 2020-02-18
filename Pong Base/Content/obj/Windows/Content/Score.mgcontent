@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/Score.spritefont</SourceFile>
+  <SourceTime>2020-02-18T00:11:07.1861952-05:00</SourceTime>
+  <DestFile>Z:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/Score.xnb</DestFile>
+  <DestTime>2020-02-18T00:11:16.2823835-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -133,3 +133,4 @@ D:\Documents\Courses\ODU\MSIM 408\2019\Programming Assignments\P2\Pong Base\Pong
 \\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\obj\x86\Release\Pong Base.exe
 \\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\obj\x86\Release\Pong Base.pdb
 \\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\Content\media\ball_red.xnb
+\\Mac\Home\Downloads\Pong Base(1)\Pong Base\Pong Base\bin\Windows\x86\Release\Content\Score.xnb
