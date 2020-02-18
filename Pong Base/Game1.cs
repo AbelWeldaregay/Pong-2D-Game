@@ -78,8 +78,8 @@ namespace Ping_Pong
             m_ball = new Ball();
 
             // set the size of the ball
-            m_ball.Width = 15.0f;
-            m_ball.Height = 15.0f;
+            m_ball.Width = 40.0f;
+            m_ball.Height = 40.0f;
 
             // create 2 instances of our paddle
             m_paddle1 = new Paddle();
