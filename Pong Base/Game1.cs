@@ -379,7 +379,7 @@ namespace Ping_Pong
             spriteBatch.Draw((Texture2D)m_textureNumbers,
                 new Vector2(x, y),
                 m_ScoreRect[score % 10],
-                Color.Gray);
+                Color.Red);
         }
 
         // actually draw our game objects
