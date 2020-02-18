@@ -13,6 +13,12 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin beep.wav
+/importer:WavImporter
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:beep.wav
+
 #begin media/ball.bmp
 /importer:TextureImporter
 /processor:TextureProcessor
