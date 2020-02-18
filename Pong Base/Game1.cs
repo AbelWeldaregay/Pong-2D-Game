@@ -386,7 +386,7 @@ namespace Ping_Pong
         public void Render()
         {
             // black background
-            graphics.GraphicsDevice.Clear(Color.Black);
+            graphics.GraphicsDevice.Clear(Color.DarkGreen);
 
             // start rendering our game graphics
             spriteBatch.Begin();
