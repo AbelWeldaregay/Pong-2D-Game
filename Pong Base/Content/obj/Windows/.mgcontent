@@ -4,6 +4,7 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+    <File>//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/pause_overlay.png</File>
     <File>//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/pong_background.png</File>
     <File>//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/score_sound.mp3</File>
     <File>//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/beep.wav</File>

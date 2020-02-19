@@ -22,7 +22,8 @@ namespace Ping_Pong
         private Texture2D background;
         private Boolean paused;
         private KeyboardState oldState;
-
+        private Texture2D pauseOverlay;
+        
         // the score
         int m_Score1 = 0;
         int m_Score2 = 0;
@@ -155,6 +156,8 @@ namespace Ping_Pong
         // load our textures from disk
         protected void LoadGameGraphics()
         {
+            pauseOverlay =
+                Content.Load<Texture2D>(@"pause_overlay");
             background =
                 Content.Load<Texture2D>(@"pong_background");
             // load the texture for the ball
@@ -195,6 +198,7 @@ namespace Ping_Pong
             // handle the input
             if (oldState.IsKeyUp(Keys.P) && newState.IsKeyDown(Keys.P))
             {
+
                 // do something here
                 // this will only be called when the key if first pressed
                 this.paused = !this.paused;
@@ -213,8 +217,8 @@ namespace Ping_Pong
                 MovePaddles();
 
                 base.Update(gameTime);
-            }
-
+            } 
+           
         }
 
         // move the ball based on it's current DX and DY 
@@ -393,6 +397,13 @@ namespace Ping_Pong
         {
             // our game-specific drawing logic
             Render();
+            if (this.paused)
+            {
+                this.spriteBatch.Begin();
+               
+                this.spriteBatch.Draw(pauseOverlay, GraphicsDevice.Viewport.Bounds, Color.White);
+                this.spriteBatch.End();
+            }
 
             base.Draw(gameTime);
         }
@@ -412,10 +423,10 @@ namespace Ping_Pong
         {
             // black background
             graphics.GraphicsDevice.Clear(Color.Black);
-            
             // start rendering our game graphics
             spriteBatch.Begin();
             spriteBatch.Draw(background, GraphicsDevice.Viewport.Bounds, Color.White);
+
             // draw the score first, so the ball can
             // move over it without being obscured
             DrawScore((float)SCREEN_WIDTH * 0.25f,
