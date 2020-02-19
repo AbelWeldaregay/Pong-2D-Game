@@ -20,6 +20,9 @@ namespace Ping_Pong
         private SpriteFont scoreFont;
         private SoundEffect beep;
         private Texture2D background;
+        private Boolean paused;
+        private KeyboardState oldState;
+
         // the score
         int m_Score1 = 0;
         int m_Score2 = 0;
@@ -79,7 +82,7 @@ namespace Ping_Pong
         {
             // create an instance of our ball
             m_ball = new Ball();
-
+            paused = false;
             // set the size of the ball
             m_ball.Width = 40.0f;
             m_ball.Height = 40.0f;
@@ -187,16 +190,31 @@ namespace Ping_Pong
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
-            // Allows the game to exit
-            if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
-                this.Exit();
+            KeyboardState newState = Keyboard.GetState();  // get the newest state
 
-            // update the ball's location on the screen
-            MoveBall();
-            // update the paddles' locations on the screen
-            MovePaddles();
+            // handle the input
+            if (oldState.IsKeyUp(Keys.P) && newState.IsKeyDown(Keys.P))
+            {
+                // do something here
+                // this will only be called when the key if first pressed
+                this.paused = !this.paused;
+            }
+            oldState = newState;  // set the new state as the old state for next time
+            // if game is paused, do not update anything
+            if (this.paused == false)
+            {
+                // Allows the game to exit
+                if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
+                    this.Exit();
 
-            base.Update(gameTime);
+                // update the ball's location on the screen
+                MoveBall();
+                // update the paddles' locations on the screen
+                MovePaddles();
+
+                base.Update(gameTime);
+            }
+
         }
 
         // move the ball based on it's current DX and DY 
@@ -320,7 +338,6 @@ namespace Ping_Pong
             // also check the keyboard, PLAYER ONE
             PlayerUp |= keyb.IsKeyDown(Keys.W);
             PlayerDown |= keyb.IsKeyDown(Keys.S);
-
             // move the paddle
             if (PlayerUp)
             {
