@@ -19,7 +19,7 @@ namespace Ping_Pong
         SpriteBatch spriteBatch;
         private SpriteFont scoreFont;
         private SoundEffect beep;
-        
+        private Texture2D background;
         // the score
         int m_Score1 = 0;
         int m_Score2 = 0;
@@ -53,6 +53,7 @@ namespace Ping_Pong
         /// </summary>
         protected override void Initialize()
         {
+            graphics.ApplyChanges();
             // use a fixed frame rate of 30 frames per second
             IsFixedTimeStep = true;
             TargetElapsedTime = new TimeSpan(0, 0, 0, 0, 33);
@@ -151,6 +152,8 @@ namespace Ping_Pong
         // load our textures from disk
         protected void LoadGameGraphics()
         {
+            background =
+                Content.Load<Texture2D>(@"pong_background");
             // load the texture for the ball
             m_textureBall =
                 Content.Load<Texture2D>(@"media\ball_red");
@@ -391,11 +394,11 @@ namespace Ping_Pong
         public void Render()
         {
             // black background
-            graphics.GraphicsDevice.Clear(Color.DarkGreen);
-
+            graphics.GraphicsDevice.Clear(Color.Black);
+            
             // start rendering our game graphics
             spriteBatch.Begin();
-
+            spriteBatch.Draw(background, GraphicsDevice.Viewport.Bounds, Color.White);
             // draw the score first, so the ball can
             // move over it without being obscured
             DrawScore((float)SCREEN_WIDTH * 0.25f,
