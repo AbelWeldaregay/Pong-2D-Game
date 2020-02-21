@@ -23,7 +23,8 @@ namespace Ping_Pong
         private Boolean paused;
         private KeyboardState oldState;
         private Texture2D pauseOverlay;
-        
+        private Song backgroundMusic;
+
         // the score
         int m_Score1 = 0;
         int m_Score2 = 0;
@@ -149,6 +150,8 @@ namespace Ping_Pong
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
             beep = Content.Load<SoundEffect>("beep");
+            backgroundMusic = Content.Load<Song>("background_music");
+            MediaPlayer.Play(backgroundMusic);
             // load images from disk
             LoadGameGraphics();
         }

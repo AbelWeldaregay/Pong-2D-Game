@@ -67,6 +67,12 @@
 /processorParam:TextureFormat=Color
 /build:media/paddle.bmp
 
+#begin melodyloops-preview-epic-inspirational-trailer-2m30s.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:melodyloops-preview-epic-inspirational-trailer-2m30s.mp3;background_music.mp3
+
 #begin pause_overlay.png
 /importer:TextureImporter
 /processor:TextureProcessor

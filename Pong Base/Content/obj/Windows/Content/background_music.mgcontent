@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/melodyloops-preview-epic-inspirational-trailer-2m30s.mp3</SourceFile>
+  <SourceTime>2020-02-21T17:56:33.3031261-05:00</SourceTime>
+  <DestFile>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/background_music.xnb</DestFile>
+  <DestTime>2020-02-21T18:48:09.6806377-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/background_music.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
