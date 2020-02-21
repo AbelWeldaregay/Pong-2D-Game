@@ -60,7 +60,7 @@ namespace Ping_Pong
             graphics.ApplyChanges();
             // use a fixed frame rate of 30 frames per second
             IsFixedTimeStep = true;
-            TargetElapsedTime = new TimeSpan(0, 0, 0, 0, 33);
+            TargetElapsedTime = new TimeSpan(0, 0, 0, 0, 15);
 
             InitScreen();
             InitGameObjects();

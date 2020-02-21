@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>V:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/Score.spritefont</SourceFile>
+  <SourceFile>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/Score.spritefont</SourceFile>
   <SourceTime>2020-02-18T00:11:07.1861952-05:00</SourceTime>
-  <DestFile>V:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/Score.xnb</DestFile>
-  <DestTime>2020-02-18T15:01:37.5225895-05:00</DestTime>
+  <DestFile>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/Score.xnb</DestFile>
+  <DestTime>2020-02-21T17:06:29.1992611-05:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
