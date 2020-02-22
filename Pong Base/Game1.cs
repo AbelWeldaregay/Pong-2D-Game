@@ -126,10 +126,21 @@ namespace Ping_Pong
                 SCREEN_WIDTH / 2 - m_ball.Width / 2;
             m_ball.Y =
                 SCREEN_HEIGHT / 2 - m_ball.Height / 2;
+            Random rnd = new Random();
 
             // set a speed and direction for the ball
-            m_ball.DX = 5.0f;
-            m_ball.DY = 4.0f;
+            int[] randomx = new int[2];
+            int[] randomy = new int[2];
+            randomx[0] = rnd.Next(4, 6);
+            randomx[1] = rnd.Next(-6, -4);
+            int xIndex = rnd.Next(0, randomx.Length);
+            randomy[0] = rnd.Next(3, 5);
+            randomy[1] = rnd.Next(-5, -3);
+            int yIndex = rnd.Next(0, randomy.Length);
+            int x1 = randomx[xIndex] ;
+            int y1 = randomy[yIndex];
+            m_ball.DX = (float)randomx[xIndex];
+            m_ball.DY = rnd.Next(3, 5);
 
             // place the paddles at either end of the screen
             m_paddle1.X = 30;
