@@ -214,6 +214,10 @@ namespace Ping_Pong
                     MediaPlayer.Play(backgroundMusic);
                 }
             }
+            if ((oldState.IsKeyUp(Keys.Q) && newState.IsKeyDown(Keys.Q)) || 
+                oldState.IsKeyUp(Keys.Escape) && newState.IsKeyDown(Keys.Escape)) {
+                this.Exit();
+            }
 
             if (oldState.IsKeyUp(Keys.R) && newState.IsKeyDown(Keys.R))
             {
