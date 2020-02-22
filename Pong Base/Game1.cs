@@ -151,6 +151,7 @@ namespace Ping_Pong
             spriteBatch = new SpriteBatch(GraphicsDevice);
             beep = Content.Load<SoundEffect>("beep");
             backgroundMusic = Content.Load<Song>("background_music");
+            MediaPlayer.IsRepeating = true;
             MediaPlayer.Play(backgroundMusic);
             // load images from disk
             LoadGameGraphics();
