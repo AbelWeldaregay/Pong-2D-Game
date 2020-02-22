@@ -214,6 +214,12 @@ namespace Ping_Pong
                     MediaPlayer.Play(backgroundMusic);
                 }
             }
+
+            if (oldState.IsKeyUp(Keys.R) && newState.IsKeyDown(Keys.R))
+            {
+                ResetGame();
+            }
+
             oldState = newState;  // set the new state as the old state for next time
             // if game is paused, do not update anything
             if (this.paused == false)
