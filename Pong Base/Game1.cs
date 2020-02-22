@@ -444,7 +444,7 @@ namespace Ping_Pong
         // draw the score at the specified location
         public void DrawScore(float x, float y, int score)
         {
-            spriteBatch.DrawString(scoreFont, score.ToString(), new Vector2(x, y), Color.Black);
+            spriteBatch.DrawString(scoreFont, score.ToString(), new Vector2(x, y), Color.White);
             
            /* spriteBatch.Draw((Texture2D)m_textureNumbers,
                 new Vector2(x, y),

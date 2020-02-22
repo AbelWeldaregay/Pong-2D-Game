@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/ping-pong-game.png</SourceFile>
+  <SourceTime>2020-02-22T18:48:08.820644-05:00</SourceTime>
+  <DestFile>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/bin/Windows/Content/ping-pong-game.xnb</DestFile>
+  <DestTime>2020-02-22T18:49:53.8047277-05:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
