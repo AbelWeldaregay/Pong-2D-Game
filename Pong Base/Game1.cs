@@ -18,6 +18,7 @@ namespace Ping_Pong
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         private SpriteFont scoreFont;
+        private SpriteFont nameFont;
         private SoundEffect beep;
         private Texture2D background;
         private Boolean paused;
@@ -180,6 +181,7 @@ namespace Ping_Pong
                 Content.Load<Texture2D>(@"media\ball_red");
             m_ball.Visual = m_textureBall;
             scoreFont = Content.Load<SpriteFont>("Score");
+            nameFont = Content.Load<SpriteFont>("name");
             // load the texture for the paddles
             m_texturePaddle =
                 Content.Load<Texture2D>(@"media\paddle");
@@ -298,7 +300,7 @@ namespace Ping_Pong
                 m_ball.DX = -5.0f;
             }
 
-            // reset game if a player scores 10 goals
+            // reset game if a player scores 100 goals
             if (m_Score1 > 99 || m_Score2 > 99)
             {
                 ResetGame();
@@ -458,7 +460,9 @@ namespace Ping_Pong
             // start rendering our game graphics
             spriteBatch.Begin();
             spriteBatch.Draw(background, GraphicsDevice.Viewport.Bounds, Color.White);
-
+            String message = "Ping Pong Customized by Abel Weldaregay";
+            spriteBatch.DrawString(nameFont, message, new Vector2(Window.ClientBounds.Width/2 - (message.Length*2), Window.ClientBounds.Height - message.Length), Color.White);
+            
             // draw the score first, so the ball can
             // move over it without being obscured
             DrawScore((float)SCREEN_WIDTH * 0.25f,

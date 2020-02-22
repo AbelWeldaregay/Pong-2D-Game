@@ -73,6 +73,13 @@
 /processorParam:Quality=Best
 /build:melodyloops-preview-epic-inspirational-trailer-2m30s.mp3;background_music.mp3
 
+#begin Name.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Name.spritefont
+
 #begin pause_overlay.png
 /importer:TextureImporter
 /processor:TextureProcessor

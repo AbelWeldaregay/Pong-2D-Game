@@ -4,6 +4,7 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+    <File>//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/Name.spritefont</File>
     <File>//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/melodyloops-preview-epic-inspirational-trailer-2m30s.mp3</File>
     <File>//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/pause_overlay.png</File>
     <File>//Mac/Home/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/pong_background.png</File>
@@ -16,7 +17,7 @@
     <File>C:/Users/Yuzhong/Documents/Courses/ODU/MSIM 408/2019/New Programming Assignments/MonoGame/Pong Base/Pong Base/Content/media/paddle.bmp</File>
   </SourceFiles>
   <DestFiles>
-    <File>background_music.mp3</File>
     <File xsi:nil="true" />
+    <File>background_music.mp3</File>
   </DestFiles>
 </SourceFileCollection>
