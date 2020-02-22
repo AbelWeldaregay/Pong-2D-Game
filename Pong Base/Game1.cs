@@ -206,6 +206,13 @@ namespace Ping_Pong
                 // do something here
                 // this will only be called when the key if first pressed
                 this.paused = !this.paused;
+                if (this.paused == true)
+                {
+                    MediaPlayer.Pause();
+                } else
+                {
+                    MediaPlayer.Play(backgroundMusic);
+                }
             }
             oldState = newState;  // set the new state as the old state for next time
             // if game is paused, do not update anything
