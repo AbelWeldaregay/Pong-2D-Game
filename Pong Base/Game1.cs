@@ -17,13 +17,20 @@ namespace Ping_Pong
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        //font to display the score
         private SpriteFont scoreFont;
+        //font to display the name
         private SpriteFont nameFont;
+        //the sound effect played when a player scores
         private SoundEffect beep;
+        //background image
         private Texture2D background;
         private Boolean paused;
+        // old state of keyboard
         private KeyboardState oldState;
+        // the overlay displayed when the game is paused
         private Texture2D pauseOverlay;
+        // stores the song played in the background
         private Song backgroundMusic;
 
         // the score
@@ -212,7 +219,7 @@ namespace Ping_Pong
         {
             KeyboardState newState = Keyboard.GetState();  // get the newest state
 
-            // handle the input
+            // handle pause input
             if (oldState.IsKeyUp(Keys.P) && newState.IsKeyDown(Keys.P))
             {
 
@@ -227,6 +234,7 @@ namespace Ping_Pong
                     MediaPlayer.Play(backgroundMusic);
                 }
             }
+            //handle quit/exit game input
             if ((oldState.IsKeyUp(Keys.Q) && newState.IsKeyDown(Keys.Q)) || 
                 oldState.IsKeyUp(Keys.Escape) && newState.IsKeyDown(Keys.Escape)) {
                 this.Exit();
