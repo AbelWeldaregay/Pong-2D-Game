@@ -12,7 +12,7 @@ This project can be run by using Visual Studio. Once you have the project open o
 
 The output should look match the following:
 
-<img src="https://github.com/AbelWeldaregay/Pong/blob/master/Screen%20Shot%202020-02-25%20at%207.52.44%20PM.png?raw=true">
+<img src="https://github.com/AbelWeldaregay/Pong/blob/master/doc/Screen%20Shot%202020-02-25%20at%207.52.44%20PM.png?raw=true">
 
 ## Playing
 
