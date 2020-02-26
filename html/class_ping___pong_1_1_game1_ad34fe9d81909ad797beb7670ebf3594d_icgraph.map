@@ -1,0 +1,4 @@
+<map id="Ping_Pong.Game1.CollisionOccurred" name="Ping_Pong.Game1.CollisionOccurred">
+<area shape="rect" id="node2" href="$class_ping___pong_1_1_game1.html#a61c60e00745df4154dde945cde16c7af" title="Ping_Pong.Game1.MoveBall" alt="" coords="240,12,429,39"/>
+<area shape="rect" id="node3" href="$class_ping___pong_1_1_game1.html#adcf5d3a66fa192e3318b14188dd0c34a" title="Allows the game to run logic such as updating the world, checking for collisions, gathering input..." alt="" coords="478,12,655,39"/>
+</map>

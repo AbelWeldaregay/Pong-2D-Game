@@ -1,0 +1,5 @@
+<map id="Ping_Pong.Game1.Initialize" name="Ping_Pong.Game1.Initialize">
+<area shape="rect" id="node2" href="$class_ping___pong_1_1_game1.html#a06c80c174c822247fb58b9ce3d6c18b2" title="Ping_Pong.Game1.InitScreen" alt="" coords="237,5,432,32"/>
+<area shape="rect" id="node3" href="$class_ping___pong_1_1_game1.html#a18d2c9e0d2bb1f3432c54781a8c822e7" title="Ping_Pong.Game1.InitGame\lObjects" alt="" coords="241,57,429,98"/>
+<area shape="rect" id="node4" href="$class_ping___pong_1_1_game1.html#a30e3122abc5d6d6555b394ef9dfea097" title="Ping_Pong.Game1.ResetGame" alt="" coords="480,64,685,91"/>
+</map>

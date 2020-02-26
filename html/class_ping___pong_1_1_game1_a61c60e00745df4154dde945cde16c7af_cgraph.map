@@ -1,0 +1,4 @@
+<map id="Ping_Pong.Game1.MoveBall" name="Ping_Pong.Game1.MoveBall">
+<area shape="rect" id="node2" href="$class_ping___pong_1_1_game1.html#a30e3122abc5d6d6555b394ef9dfea097" title="Ping_Pong.Game1.ResetGame" alt="" coords="243,5,448,32"/>
+<area shape="rect" id="node3" href="$class_ping___pong_1_1_game1.html#ad34fe9d81909ad797beb7670ebf3594d" title="Ping_Pong.Game1.Collision\lOccurred" alt="" coords="253,57,438,98"/>
+</map>

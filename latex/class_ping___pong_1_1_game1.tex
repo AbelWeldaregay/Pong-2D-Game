@@ -1,0 +1,680 @@
+\hypertarget{class_ping___pong_1_1_game1}{\section{Ping\-\_\-\-Pong.\-Game1 Class Reference}
+\label{class_ping___pong_1_1_game1}\index{Ping\-\_\-\-Pong.\-Game1@{Ping\-\_\-\-Pong.\-Game1}}
+}
+
+
+This is the main type for your game  
+
+
+
+
+Inheritance diagram for Ping\-\_\-\-Pong.\-Game1\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=214pt]{class_ping___pong_1_1_game1__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Ping\-\_\-\-Pong.\-Game1\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_ping___pong_1_1_game1_ab146cd91df1ef58f9a58935843ed787b}{Game1} ()
+\item 
+void \hyperlink{class_ping___pong_1_1_game1_a06c80c174c822247fb58b9ce3d6c18b2}{Init\-Screen} ()
+\item 
+void \hyperlink{class_ping___pong_1_1_game1_a18d2c9e0d2bb1f3432c54781a8c822e7}{Init\-Game\-Objects} ()
+\item 
+void \hyperlink{class_ping___pong_1_1_game1_a30e3122abc5d6d6555b394ef9dfea097}{Reset\-Game} ()
+\item 
+void \hyperlink{class_ping___pong_1_1_game1_a5e2d8c065ebbe30b5452d6e6366d21ff}{Draw\-Score} (float x, float y, int score)
+\item 
+void \hyperlink{class_ping___pong_1_1_game1_ad22887afd5e5fe23c2d5d218556046ee}{Render} ()
+\end{DoxyCompactItemize}
+\subsection*{Protected Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+override void \hyperlink{class_ping___pong_1_1_game1_ae8a0320b8583f5f671dcf98a5ca232df}{Initialize} ()
+\begin{DoxyCompactList}\small\item\em Allows the game to perform any initialization it needs to before starting to run. This is where it can query for any required services and load any non-\/graphic related content. Calling base.\-Initialize will enumerate through any components and initialize them as well. \end{DoxyCompactList}\item 
+override void \hyperlink{class_ping___pong_1_1_game1_a6d3747853eb20dd83968478792b1a19d}{Load\-Content} ()
+\begin{DoxyCompactList}\small\item\em Load\-Content will be called once per game and is the place to load all of your content. \end{DoxyCompactList}\item 
+void \hyperlink{class_ping___pong_1_1_game1_ac022f03857d45e8396e520c70eceb9c5}{Load\-Game\-Graphics} ()
+\item 
+override void \hyperlink{class_ping___pong_1_1_game1_a558bcf5c17e9f410d5cceb2f66e2dd67}{Unload\-Content} ()
+\begin{DoxyCompactList}\small\item\em Unload\-Content will be called once per game and is the place to unload all content. \end{DoxyCompactList}\item 
+override void \hyperlink{class_ping___pong_1_1_game1_adcf5d3a66fa192e3318b14188dd0c34a}{Update} (Game\-Time game\-Time)
+\begin{DoxyCompactList}\small\item\em Allows the game to run logic such as updating the world, checking for collisions, gathering input, and playing audio. \end{DoxyCompactList}\item 
+override void \hyperlink{class_ping___pong_1_1_game1_a4ce721b84f4194ecc1a8bf27b27f0955}{Draw} (Game\-Time game\-Time)
+\begin{DoxyCompactList}\small\item\em This is called when the game should draw itself. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{class_ping___pong_1_1_game1_a61c60e00745df4154dde945cde16c7af}{Move\-Ball} ()
+\item 
+bool \hyperlink{class_ping___pong_1_1_game1_ad34fe9d81909ad797beb7670ebf3594d}{Collision\-Occurred} ()
+\item 
+void \hyperlink{class_ping___pong_1_1_game1_a545c655f415d2de1f372a6eed77e0231}{Move\-Paddles} ()
+\end{DoxyCompactItemize}
+\subsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+Graphics\-Device\-Manager \hyperlink{class_ping___pong_1_1_game1_aaaff77331c3e33fc32f14a28fa530a7d}{graphics}
+\item 
+Sprite\-Batch \hyperlink{class_ping___pong_1_1_game1_a887077461615a43e27f62c978affad96}{sprite\-Batch}
+\item 
+Sprite\-Font \hyperlink{class_ping___pong_1_1_game1_adcc5e0fb3bc88b1ea3ae2c4c1a06a936}{score\-Font}
+\item 
+Sprite\-Font \hyperlink{class_ping___pong_1_1_game1_a1f794b8a0feab9dfdbf4c98dc86222cf}{name\-Font}
+\item 
+Sound\-Effect \hyperlink{class_ping___pong_1_1_game1_aaa0f5f32149b8eb6abd8c148a4e47c36}{beep}
+\item 
+Texture2\-D \hyperlink{class_ping___pong_1_1_game1_ae0f525562a3eb615b556f4a9a1eda3e7}{background}
+\item 
+Boolean \hyperlink{class_ping___pong_1_1_game1_a87f945d8a88fa041a94fe15c1446173e}{paused}
+\item 
+Keyboard\-State \hyperlink{class_ping___pong_1_1_game1_a13ba97510380dfbf6c00815f4d5af7ad}{old\-State}
+\item 
+Texture2\-D \hyperlink{class_ping___pong_1_1_game1_a2ef093c4cac7c244c30664dacecc7aa2}{pause\-Overlay}
+\item 
+Song \hyperlink{class_ping___pong_1_1_game1_ab6439b5c8bcfb4ba77f2a62ab4c73213}{background\-Music}
+\item 
+int \hyperlink{class_ping___pong_1_1_game1_a79cc64d39546f15bb7c9d169e5482444}{m\-\_\-\-Score1} = 0
+\item 
+int \hyperlink{class_ping___pong_1_1_game1_ad54e91077ec0e426c351258e17fb2137}{m\-\_\-\-Score2} = 0
+\item 
+Texture2\-D \hyperlink{class_ping___pong_1_1_game1_a7919de4eb9687284ff736962adc6d180}{m\-\_\-texture\-Numbers}
+\item 
+Rectangle\mbox{[}$\,$\mbox{]} \hyperlink{class_ping___pong_1_1_game1_a97f485fbb53d7daba3590705a5129e60}{m\-\_\-\-Score\-Rect} = null
+\item 
+\hyperlink{class_ping___pong_1_1_ball}{Ball} \hyperlink{class_ping___pong_1_1_game1_a3da763dfe56d5444101a2a3c2ea97389}{m\-\_\-ball}
+\item 
+Texture2\-D \hyperlink{class_ping___pong_1_1_game1_aeb0aebe72aa99d1d627260de5d1beafb}{m\-\_\-texture\-Ball}
+\item 
+\hyperlink{class_ping___pong_1_1_paddle}{Paddle} \hyperlink{class_ping___pong_1_1_game1_ac47e2989a6e169d42af4366f901c3d8a}{m\-\_\-paddle1}
+\item 
+\hyperlink{class_ping___pong_1_1_paddle}{Paddle} \hyperlink{class_ping___pong_1_1_game1_a9735bd7df2c29d6196fbba528689dfa7}{m\-\_\-paddle2}
+\item 
+Texture2\-D \hyperlink{class_ping___pong_1_1_game1_a2b0b61d9c93d9d11781d2d4a3c6f50d4}{m\-\_\-texture\-Paddle}
+\item 
+const int \hyperlink{class_ping___pong_1_1_game1_ae69f627158d80a56475c055372115b55}{S\-C\-R\-E\-E\-N\-\_\-\-W\-I\-D\-T\-H} = 640
+\item 
+const int \hyperlink{class_ping___pong_1_1_game1_a6128f974e5abe6615565769664daba1c}{S\-C\-R\-E\-E\-N\-\_\-\-H\-E\-I\-G\-H\-T} = 480
+\item 
+const float \hyperlink{class_ping___pong_1_1_game1_a4613e5c643f7d89e1d4dabb2b383bfad}{P\-A\-D\-D\-L\-E\-\_\-\-S\-T\-R\-I\-D\-E} = 10.\-0f
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+This is the main type for your game 
+
+
+
+Definition at line 16 of file Game1.\-cs.
+
+
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{class_ping___pong_1_1_game1_ab146cd91df1ef58f9a58935843ed787b}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Game1@{Game1}}
+\index{Game1@{Game1}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Game1}]{\setlength{\rightskip}{0pt plus 5cm}Ping\-\_\-\-Pong.\-Game1.\-Game1 (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_ping___pong_1_1_game1_ab146cd91df1ef58f9a58935843ed787b}
+
+
+Definition at line 48 of file Game1.\-cs.
+
+
+
+\subsection{Member Function Documentation}
+\hypertarget{class_ping___pong_1_1_game1_ad34fe9d81909ad797beb7670ebf3594d}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Collision\-Occurred@{Collision\-Occurred}}
+\index{Collision\-Occurred@{Collision\-Occurred}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Collision\-Occurred}]{\setlength{\rightskip}{0pt plus 5cm}bool Ping\-\_\-\-Pong.\-Game1.\-Collision\-Occurred (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_ad34fe9d81909ad797beb7670ebf3594d}
+
+
+Definition at line 321 of file Game1.\-cs.
+
+
+
+Here is the caller graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_ad34fe9d81909ad797beb7670ebf3594d_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_ping___pong_1_1_game1_a4ce721b84f4194ecc1a8bf27b27f0955}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Draw@{Draw}}
+\index{Draw@{Draw}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Draw}]{\setlength{\rightskip}{0pt plus 5cm}override void Ping\-\_\-\-Pong.\-Game1.\-Draw (
+\begin{DoxyParamCaption}
+\item[{Game\-Time}]{game\-Time}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [protected]}}}\label{class_ping___pong_1_1_game1_a4ce721b84f4194ecc1a8bf27b27f0955}
+
+
+This is called when the game should draw itself. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em game\-Time} & Provides a snapshot of timing values.\\
+\hline
+\end{DoxyParams}
+
+
+Definition at line 430 of file Game1.\-cs.
+
+
+
+Here is the call graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_a4ce721b84f4194ecc1a8bf27b27f0955_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_ping___pong_1_1_game1_a5e2d8c065ebbe30b5452d6e6366d21ff}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Draw\-Score@{Draw\-Score}}
+\index{Draw\-Score@{Draw\-Score}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Draw\-Score}]{\setlength{\rightskip}{0pt plus 5cm}void Ping\-\_\-\-Pong.\-Game1.\-Draw\-Score (
+\begin{DoxyParamCaption}
+\item[{float}]{x, }
+\item[{float}]{y, }
+\item[{int}]{score}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_ping___pong_1_1_game1_a5e2d8c065ebbe30b5452d6e6366d21ff}
+
+
+Definition at line 445 of file Game1.\-cs.
+
+
+
+Here is the caller graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_a5e2d8c065ebbe30b5452d6e6366d21ff_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_ping___pong_1_1_game1_a18d2c9e0d2bb1f3432c54781a8c822e7}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Init\-Game\-Objects@{Init\-Game\-Objects}}
+\index{Init\-Game\-Objects@{Init\-Game\-Objects}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Init\-Game\-Objects}]{\setlength{\rightskip}{0pt plus 5cm}void Ping\-\_\-\-Pong.\-Game1.\-Init\-Game\-Objects (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_ping___pong_1_1_game1_a18d2c9e0d2bb1f3432c54781a8c822e7}
+
+
+Definition at line 84 of file Game1.\-cs.
+
+
+
+Here is the call graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_a18d2c9e0d2bb1f3432c54781a8c822e7_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_a18d2c9e0d2bb1f3432c54781a8c822e7_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_ping___pong_1_1_game1_ae8a0320b8583f5f671dcf98a5ca232df}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Initialize@{Initialize}}
+\index{Initialize@{Initialize}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Initialize}]{\setlength{\rightskip}{0pt plus 5cm}override void Ping\-\_\-\-Pong.\-Game1.\-Initialize (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [protected]}}}\label{class_ping___pong_1_1_game1_ae8a0320b8583f5f671dcf98a5ca232df}
+
+
+Allows the game to perform any initialization it needs to before starting to run. This is where it can query for any required services and load any non-\/graphic related content. Calling base.\-Initialize will enumerate through any components and initialize them as well. 
+
+
+
+Definition at line 60 of file Game1.\-cs.
+
+
+
+Here is the call graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_ae8a0320b8583f5f671dcf98a5ca232df_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_ping___pong_1_1_game1_a06c80c174c822247fb58b9ce3d6c18b2}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Init\-Screen@{Init\-Screen}}
+\index{Init\-Screen@{Init\-Screen}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Init\-Screen}]{\setlength{\rightskip}{0pt plus 5cm}void Ping\-\_\-\-Pong.\-Game1.\-Init\-Screen (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_ping___pong_1_1_game1_a06c80c174c822247fb58b9ce3d6c18b2}
+
+
+Definition at line 74 of file Game1.\-cs.
+
+
+
+Here is the caller graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_a06c80c174c822247fb58b9ce3d6c18b2_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_ping___pong_1_1_game1_a6d3747853eb20dd83968478792b1a19d}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Load\-Content@{Load\-Content}}
+\index{Load\-Content@{Load\-Content}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Load\-Content}]{\setlength{\rightskip}{0pt plus 5cm}override void Ping\-\_\-\-Pong.\-Game1.\-Load\-Content (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [protected]}}}\label{class_ping___pong_1_1_game1_a6d3747853eb20dd83968478792b1a19d}
+
+
+Load\-Content will be called once per game and is the place to load all of your content. 
+
+
+
+Definition at line 160 of file Game1.\-cs.
+
+
+
+Here is the call graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_a6d3747853eb20dd83968478792b1a19d_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_ping___pong_1_1_game1_ac022f03857d45e8396e520c70eceb9c5}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Load\-Game\-Graphics@{Load\-Game\-Graphics}}
+\index{Load\-Game\-Graphics@{Load\-Game\-Graphics}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Load\-Game\-Graphics}]{\setlength{\rightskip}{0pt plus 5cm}void Ping\-\_\-\-Pong.\-Game1.\-Load\-Game\-Graphics (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [protected]}}}\label{class_ping___pong_1_1_game1_ac022f03857d45e8396e520c70eceb9c5}
+
+
+Definition at line 173 of file Game1.\-cs.
+
+
+
+Here is the caller graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_ac022f03857d45e8396e520c70eceb9c5_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_ping___pong_1_1_game1_a61c60e00745df4154dde945cde16c7af}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Move\-Ball@{Move\-Ball}}
+\index{Move\-Ball@{Move\-Ball}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Move\-Ball}]{\setlength{\rightskip}{0pt plus 5cm}void Ping\-\_\-\-Pong.\-Game1.\-Move\-Ball (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a61c60e00745df4154dde945cde16c7af}
+
+
+Definition at line 260 of file Game1.\-cs.
+
+
+
+Here is the call graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_a61c60e00745df4154dde945cde16c7af_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_a61c60e00745df4154dde945cde16c7af_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_ping___pong_1_1_game1_a545c655f415d2de1f372a6eed77e0231}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Move\-Paddles@{Move\-Paddles}}
+\index{Move\-Paddles@{Move\-Paddles}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Move\-Paddles}]{\setlength{\rightskip}{0pt plus 5cm}void Ping\-\_\-\-Pong.\-Game1.\-Move\-Paddles (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a545c655f415d2de1f372a6eed77e0231}
+
+
+Definition at line 356 of file Game1.\-cs.
+
+
+
+Here is the caller graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_a545c655f415d2de1f372a6eed77e0231_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_ping___pong_1_1_game1_ad22887afd5e5fe23c2d5d218556046ee}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Render@{Render}}
+\index{Render@{Render}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Render}]{\setlength{\rightskip}{0pt plus 5cm}void Ping\-\_\-\-Pong.\-Game1.\-Render (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_ping___pong_1_1_game1_ad22887afd5e5fe23c2d5d218556046ee}
+
+
+Definition at line 456 of file Game1.\-cs.
+
+
+
+Here is the call graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_ad22887afd5e5fe23c2d5d218556046ee_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_ad22887afd5e5fe23c2d5d218556046ee_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_ping___pong_1_1_game1_a30e3122abc5d6d6555b394ef9dfea097}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Reset\-Game@{Reset\-Game}}
+\index{Reset\-Game@{Reset\-Game}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Reset\-Game}]{\setlength{\rightskip}{0pt plus 5cm}void Ping\-\_\-\-Pong.\-Game1.\-Reset\-Game (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}}}\label{class_ping___pong_1_1_game1_a30e3122abc5d6d6555b394ef9dfea097}
+
+
+Definition at line 119 of file Game1.\-cs.
+
+
+
+Here is the caller graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_a30e3122abc5d6d6555b394ef9dfea097_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_ping___pong_1_1_game1_a558bcf5c17e9f410d5cceb2f66e2dd67}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Unload\-Content@{Unload\-Content}}
+\index{Unload\-Content@{Unload\-Content}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Unload\-Content}]{\setlength{\rightskip}{0pt plus 5cm}override void Ping\-\_\-\-Pong.\-Game1.\-Unload\-Content (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [protected]}}}\label{class_ping___pong_1_1_game1_a558bcf5c17e9f410d5cceb2f66e2dd67}
+
+
+Unload\-Content will be called once per game and is the place to unload all content. 
+
+
+
+Definition at line 201 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_adcf5d3a66fa192e3318b14188dd0c34a}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!Update@{Update}}
+\index{Update@{Update}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{Update}]{\setlength{\rightskip}{0pt plus 5cm}override void Ping\-\_\-\-Pong.\-Game1.\-Update (
+\begin{DoxyParamCaption}
+\item[{Game\-Time}]{game\-Time}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [inline]}, {\ttfamily [protected]}}}\label{class_ping___pong_1_1_game1_adcf5d3a66fa192e3318b14188dd0c34a}
+
+
+Allows the game to run logic such as updating the world, checking for collisions, gathering input, and playing audio. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em game\-Time} & Provides a snapshot of timing values.\\
+\hline
+\end{DoxyParams}
+
+
+Definition at line 211 of file Game1.\-cs.
+
+
+
+Here is the call graph for this function\-:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_ping___pong_1_1_game1_adcf5d3a66fa192e3318b14188dd0c34a_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+\subsection{Field Documentation}
+\hypertarget{class_ping___pong_1_1_game1_ae0f525562a3eb615b556f4a9a1eda3e7}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!background@{background}}
+\index{background@{background}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{background}]{\setlength{\rightskip}{0pt plus 5cm}Texture2\-D Ping\-\_\-\-Pong.\-Game1.\-background\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_ae0f525562a3eb615b556f4a9a1eda3e7}
+
+
+Definition at line 23 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_ab6439b5c8bcfb4ba77f2a62ab4c73213}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!background\-Music@{background\-Music}}
+\index{background\-Music@{background\-Music}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{background\-Music}]{\setlength{\rightskip}{0pt plus 5cm}Song Ping\-\_\-\-Pong.\-Game1.\-background\-Music\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_ab6439b5c8bcfb4ba77f2a62ab4c73213}
+
+
+Definition at line 27 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_aaa0f5f32149b8eb6abd8c148a4e47c36}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!beep@{beep}}
+\index{beep@{beep}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{beep}]{\setlength{\rightskip}{0pt plus 5cm}Sound\-Effect Ping\-\_\-\-Pong.\-Game1.\-beep\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_aaa0f5f32149b8eb6abd8c148a4e47c36}
+
+
+Definition at line 22 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_aaaff77331c3e33fc32f14a28fa530a7d}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!graphics@{graphics}}
+\index{graphics@{graphics}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{graphics}]{\setlength{\rightskip}{0pt plus 5cm}Graphics\-Device\-Manager Ping\-\_\-\-Pong.\-Game1.\-graphics\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_aaaff77331c3e33fc32f14a28fa530a7d}
+
+
+Definition at line 18 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a3da763dfe56d5444101a2a3c2ea97389}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!m\-\_\-ball@{m\-\_\-ball}}
+\index{m\-\_\-ball@{m\-\_\-ball}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{m\-\_\-ball}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Ball} Ping\-\_\-\-Pong.\-Game1.\-m\-\_\-ball\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a3da763dfe56d5444101a2a3c2ea97389}
+
+
+Definition at line 36 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_ac47e2989a6e169d42af4366f901c3d8a}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!m\-\_\-paddle1@{m\-\_\-paddle1}}
+\index{m\-\_\-paddle1@{m\-\_\-paddle1}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{m\-\_\-paddle1}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Paddle} Ping\-\_\-\-Pong.\-Game1.\-m\-\_\-paddle1\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_ac47e2989a6e169d42af4366f901c3d8a}
+
+
+Definition at line 40 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a9735bd7df2c29d6196fbba528689dfa7}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!m\-\_\-paddle2@{m\-\_\-paddle2}}
+\index{m\-\_\-paddle2@{m\-\_\-paddle2}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{m\-\_\-paddle2}]{\setlength{\rightskip}{0pt plus 5cm}{\bf Paddle} Ping\-\_\-\-Pong.\-Game1.\-m\-\_\-paddle2\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a9735bd7df2c29d6196fbba528689dfa7}
+
+
+Definition at line 41 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a79cc64d39546f15bb7c9d169e5482444}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!m\-\_\-\-Score1@{m\-\_\-\-Score1}}
+\index{m\-\_\-\-Score1@{m\-\_\-\-Score1}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{m\-\_\-\-Score1}]{\setlength{\rightskip}{0pt plus 5cm}int Ping\-\_\-\-Pong.\-Game1.\-m\-\_\-\-Score1 = 0\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a79cc64d39546f15bb7c9d169e5482444}
+
+
+Definition at line 30 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_ad54e91077ec0e426c351258e17fb2137}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!m\-\_\-\-Score2@{m\-\_\-\-Score2}}
+\index{m\-\_\-\-Score2@{m\-\_\-\-Score2}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{m\-\_\-\-Score2}]{\setlength{\rightskip}{0pt plus 5cm}int Ping\-\_\-\-Pong.\-Game1.\-m\-\_\-\-Score2 = 0\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_ad54e91077ec0e426c351258e17fb2137}
+
+
+Definition at line 31 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a97f485fbb53d7daba3590705a5129e60}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!m\-\_\-\-Score\-Rect@{m\-\_\-\-Score\-Rect}}
+\index{m\-\_\-\-Score\-Rect@{m\-\_\-\-Score\-Rect}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{m\-\_\-\-Score\-Rect}]{\setlength{\rightskip}{0pt plus 5cm}Rectangle \mbox{[}$\,$\mbox{]} Ping\-\_\-\-Pong.\-Game1.\-m\-\_\-\-Score\-Rect = null\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a97f485fbb53d7daba3590705a5129e60}
+
+
+Definition at line 33 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_aeb0aebe72aa99d1d627260de5d1beafb}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!m\-\_\-texture\-Ball@{m\-\_\-texture\-Ball}}
+\index{m\-\_\-texture\-Ball@{m\-\_\-texture\-Ball}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{m\-\_\-texture\-Ball}]{\setlength{\rightskip}{0pt plus 5cm}Texture2\-D Ping\-\_\-\-Pong.\-Game1.\-m\-\_\-texture\-Ball\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_aeb0aebe72aa99d1d627260de5d1beafb}
+
+
+Definition at line 37 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a7919de4eb9687284ff736962adc6d180}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!m\-\_\-texture\-Numbers@{m\-\_\-texture\-Numbers}}
+\index{m\-\_\-texture\-Numbers@{m\-\_\-texture\-Numbers}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{m\-\_\-texture\-Numbers}]{\setlength{\rightskip}{0pt plus 5cm}Texture2\-D Ping\-\_\-\-Pong.\-Game1.\-m\-\_\-texture\-Numbers\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a7919de4eb9687284ff736962adc6d180}
+
+
+Definition at line 32 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a2b0b61d9c93d9d11781d2d4a3c6f50d4}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!m\-\_\-texture\-Paddle@{m\-\_\-texture\-Paddle}}
+\index{m\-\_\-texture\-Paddle@{m\-\_\-texture\-Paddle}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{m\-\_\-texture\-Paddle}]{\setlength{\rightskip}{0pt plus 5cm}Texture2\-D Ping\-\_\-\-Pong.\-Game1.\-m\-\_\-texture\-Paddle\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a2b0b61d9c93d9d11781d2d4a3c6f50d4}
+
+
+Definition at line 42 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a1f794b8a0feab9dfdbf4c98dc86222cf}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!name\-Font@{name\-Font}}
+\index{name\-Font@{name\-Font}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{name\-Font}]{\setlength{\rightskip}{0pt plus 5cm}Sprite\-Font Ping\-\_\-\-Pong.\-Game1.\-name\-Font\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a1f794b8a0feab9dfdbf4c98dc86222cf}
+
+
+Definition at line 21 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a13ba97510380dfbf6c00815f4d5af7ad}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!old\-State@{old\-State}}
+\index{old\-State@{old\-State}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{old\-State}]{\setlength{\rightskip}{0pt plus 5cm}Keyboard\-State Ping\-\_\-\-Pong.\-Game1.\-old\-State\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a13ba97510380dfbf6c00815f4d5af7ad}
+
+
+Definition at line 25 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a4613e5c643f7d89e1d4dabb2b383bfad}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!P\-A\-D\-D\-L\-E\-\_\-\-S\-T\-R\-I\-D\-E@{P\-A\-D\-D\-L\-E\-\_\-\-S\-T\-R\-I\-D\-E}}
+\index{P\-A\-D\-D\-L\-E\-\_\-\-S\-T\-R\-I\-D\-E@{P\-A\-D\-D\-L\-E\-\_\-\-S\-T\-R\-I\-D\-E}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{P\-A\-D\-D\-L\-E\-\_\-\-S\-T\-R\-I\-D\-E}]{\setlength{\rightskip}{0pt plus 5cm}const float Ping\-\_\-\-Pong.\-Game1.\-P\-A\-D\-D\-L\-E\-\_\-\-S\-T\-R\-I\-D\-E = 10.\-0f\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a4613e5c643f7d89e1d4dabb2b383bfad}
+
+
+Definition at line 353 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a87f945d8a88fa041a94fe15c1446173e}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!paused@{paused}}
+\index{paused@{paused}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{paused}]{\setlength{\rightskip}{0pt plus 5cm}Boolean Ping\-\_\-\-Pong.\-Game1.\-paused\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a87f945d8a88fa041a94fe15c1446173e}
+
+
+Definition at line 24 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a2ef093c4cac7c244c30664dacecc7aa2}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!pause\-Overlay@{pause\-Overlay}}
+\index{pause\-Overlay@{pause\-Overlay}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{pause\-Overlay}]{\setlength{\rightskip}{0pt plus 5cm}Texture2\-D Ping\-\_\-\-Pong.\-Game1.\-pause\-Overlay\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a2ef093c4cac7c244c30664dacecc7aa2}
+
+
+Definition at line 26 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_adcc5e0fb3bc88b1ea3ae2c4c1a06a936}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!score\-Font@{score\-Font}}
+\index{score\-Font@{score\-Font}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{score\-Font}]{\setlength{\rightskip}{0pt plus 5cm}Sprite\-Font Ping\-\_\-\-Pong.\-Game1.\-score\-Font\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_adcc5e0fb3bc88b1ea3ae2c4c1a06a936}
+
+
+Definition at line 20 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a6128f974e5abe6615565769664daba1c}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!S\-C\-R\-E\-E\-N\-\_\-\-H\-E\-I\-G\-H\-T@{S\-C\-R\-E\-E\-N\-\_\-\-H\-E\-I\-G\-H\-T}}
+\index{S\-C\-R\-E\-E\-N\-\_\-\-H\-E\-I\-G\-H\-T@{S\-C\-R\-E\-E\-N\-\_\-\-H\-E\-I\-G\-H\-T}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{S\-C\-R\-E\-E\-N\-\_\-\-H\-E\-I\-G\-H\-T}]{\setlength{\rightskip}{0pt plus 5cm}const int Ping\-\_\-\-Pong.\-Game1.\-S\-C\-R\-E\-E\-N\-\_\-\-H\-E\-I\-G\-H\-T = 480\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a6128f974e5abe6615565769664daba1c}
+
+
+Definition at line 46 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_ae69f627158d80a56475c055372115b55}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!S\-C\-R\-E\-E\-N\-\_\-\-W\-I\-D\-T\-H@{S\-C\-R\-E\-E\-N\-\_\-\-W\-I\-D\-T\-H}}
+\index{S\-C\-R\-E\-E\-N\-\_\-\-W\-I\-D\-T\-H@{S\-C\-R\-E\-E\-N\-\_\-\-W\-I\-D\-T\-H}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{S\-C\-R\-E\-E\-N\-\_\-\-W\-I\-D\-T\-H}]{\setlength{\rightskip}{0pt plus 5cm}const int Ping\-\_\-\-Pong.\-Game1.\-S\-C\-R\-E\-E\-N\-\_\-\-W\-I\-D\-T\-H = 640\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_ae69f627158d80a56475c055372115b55}
+
+
+Definition at line 45 of file Game1.\-cs.
+
+\hypertarget{class_ping___pong_1_1_game1_a887077461615a43e27f62c978affad96}{\index{Ping\-\_\-\-Pong\-::\-Game1@{Ping\-\_\-\-Pong\-::\-Game1}!sprite\-Batch@{sprite\-Batch}}
+\index{sprite\-Batch@{sprite\-Batch}!Ping_Pong::Game1@{Ping\-\_\-\-Pong\-::\-Game1}}
+\subsubsection[{sprite\-Batch}]{\setlength{\rightskip}{0pt plus 5cm}Sprite\-Batch Ping\-\_\-\-Pong.\-Game1.\-sprite\-Batch\hspace{0.3cm}{\ttfamily [private]}}}\label{class_ping___pong_1_1_game1_a887077461615a43e27f62c978affad96}
+
+
+Definition at line 19 of file Game1.\-cs.
+
+
+
+The documentation for this class was generated from the following file\-:\begin{DoxyCompactItemize}
+\item 
+Pong Base/\hyperlink{_game1_8cs}{Game1.\-cs}\end{DoxyCompactItemize}

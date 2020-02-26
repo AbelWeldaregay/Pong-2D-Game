@@ -1,0 +1,5 @@
+<map id="Ping_Pong.Game1" name="Ping_Pong.Game1">
+<area shape="rect" id="node3" href="$class_ping___pong_1_1_ball.html" title="Ping_Pong.Ball" alt="" coords="209,91,319,117"/>
+<area shape="rect" id="node4" href="$class_ping___pong_1_1_game_object.html" title="GameObject" alt="" coords="302,5,396,32"/>
+<area shape="rect" id="node5" href="$class_ping___pong_1_1_paddle.html" title="Ping_Pong.Paddle" alt="" coords="343,91,472,117"/>
+</map>

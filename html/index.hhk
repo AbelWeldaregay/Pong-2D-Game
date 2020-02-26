@@ -1,0 +1,130 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ae0f525562a3eb615b556f4a9a1eda3e7"><param name="Name" value="background"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ab6439b5c8bcfb4ba77f2a62ab4c73213"><param name="Name" value="backgroundMusic"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#aaa0f5f32149b8eb6abd8c148a4e47c36"><param name="Name" value="beep"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ad34fe9d81909ad797beb7670ebf3594d"><param name="Name" value="CollisionOccurred"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a4ce721b84f4194ecc1a8bf27b27f0955"><param name="Name" value="Draw"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a5e2d8c065ebbe30b5452d6e6366d21ff"><param name="Name" value="DrawScore"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_ball.html#af3e8f435dbdb315523fd1bebb2032374"><param name="Name" value="DX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_ball.html#a733b32b50c29c5c39e8a94654f9e3309"><param name="Name" value="DY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ab146cd91df1ef58f9a58935843ed787b"><param name="Name" value="Game1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#aaaff77331c3e33fc32f14a28fa530a7d"><param name="Name" value="graphics"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a66385f8db21929ffb9fa7f180db54f95"><param name="Name" value="Height"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a18d2c9e0d2bb1f3432c54781a8c822e7"><param name="Name" value="InitGameObjects"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ae8a0320b8583f5f671dcf98a5ca232df"><param name="Name" value="Initialize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a06c80c174c822247fb58b9ce3d6c18b2"><param name="Name" value="InitScreen"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a6d3747853eb20dd83968478792b1a19d"><param name="Name" value="LoadContent"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ac022f03857d45e8396e520c70eceb9c5"><param name="Name" value="LoadGameGraphics"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a3da763dfe56d5444101a2a3c2ea97389"><param name="Name" value="m_ball"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_ball.html#abc4e830bbb71be51ce46b48cf2bd7df2"><param name="Name" value="m_DX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_ball.html#a9b4627b61b519fd2ed089a277403a356"><param name="Name" value="m_DY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a22de23272c1b02fb7bf7b13da7804afb"><param name="Name" value="m_Height"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ac47e2989a6e169d42af4366f901c3d8a"><param name="Name" value="m_paddle1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a9735bd7df2c29d6196fbba528689dfa7"><param name="Name" value="m_paddle2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a79cc64d39546f15bb7c9d169e5482444"><param name="Name" value="m_Score1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ad54e91077ec0e426c351258e17fb2137"><param name="Name" value="m_Score2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a97f485fbb53d7daba3590705a5129e60"><param name="Name" value="m_ScoreRect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#aeb0aebe72aa99d1d627260de5d1beafb"><param name="Name" value="m_textureBall"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a7919de4eb9687284ff736962adc6d180"><param name="Name" value="m_textureNumbers"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a2b0b61d9c93d9d11781d2d4a3c6f50d4"><param name="Name" value="m_texturePaddle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a5009be35d8fba10d72173a954caef57c"><param name="Name" value="m_Visual"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#ac75ebfdec034a75ed71dbf91eface23f"><param name="Name" value="m_Width"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a292627bfcfe03c2f5a1dc403faa37690"><param name="Name" value="m_X"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a29466cb57b6ac26e58052b2517083745"><param name="Name" value="m_Y"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_program.html#a9e475ac6b18638ebfc4895539e7c08ed"><param name="Name" value="Main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a61c60e00745df4154dde945cde16c7af"><param name="Name" value="MoveBall"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a545c655f415d2de1f372a6eed77e0231"><param name="Name" value="MovePaddles"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a1f794b8a0feab9dfdbf4c98dc86222cf"><param name="Name" value="nameFont"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a13ba97510380dfbf6c00815f4d5af7ad"><param name="Name" value="oldState"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a4613e5c643f7d89e1d4dabb2b383bfad"><param name="Name" value="PADDLE_STRIDE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a87f945d8a88fa041a94fe15c1446173e"><param name="Name" value="paused"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a2ef093c4cac7c244c30664dacecc7aa2"><param name="Name" value="pauseOverlay"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespace_ping___pong.html"><param name="Name" value="Ping_Pong"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_ball.html"><param name="Name" value="Ping_Pong::Ball"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_ball.html#af3e8f435dbdb315523fd1bebb2032374"><param name="Name" value="DX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_ball.html#a733b32b50c29c5c39e8a94654f9e3309"><param name="Name" value="DY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_ball.html#abc4e830bbb71be51ce46b48cf2bd7df2"><param name="Name" value="m_DX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_ball.html#a9b4627b61b519fd2ed089a277403a356"><param name="Name" value="m_DY"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html"><param name="Name" value="Ping_Pong::Game1"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ae0f525562a3eb615b556f4a9a1eda3e7"><param name="Name" value="background"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ab6439b5c8bcfb4ba77f2a62ab4c73213"><param name="Name" value="backgroundMusic"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#aaa0f5f32149b8eb6abd8c148a4e47c36"><param name="Name" value="beep"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ad34fe9d81909ad797beb7670ebf3594d"><param name="Name" value="CollisionOccurred"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a4ce721b84f4194ecc1a8bf27b27f0955"><param name="Name" value="Draw"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a5e2d8c065ebbe30b5452d6e6366d21ff"><param name="Name" value="DrawScore"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ab146cd91df1ef58f9a58935843ed787b"><param name="Name" value="Game1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#aaaff77331c3e33fc32f14a28fa530a7d"><param name="Name" value="graphics"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a18d2c9e0d2bb1f3432c54781a8c822e7"><param name="Name" value="InitGameObjects"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ae8a0320b8583f5f671dcf98a5ca232df"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a06c80c174c822247fb58b9ce3d6c18b2"><param name="Name" value="InitScreen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a6d3747853eb20dd83968478792b1a19d"><param name="Name" value="LoadContent"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ac022f03857d45e8396e520c70eceb9c5"><param name="Name" value="LoadGameGraphics"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a3da763dfe56d5444101a2a3c2ea97389"><param name="Name" value="m_ball"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ac47e2989a6e169d42af4366f901c3d8a"><param name="Name" value="m_paddle1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a9735bd7df2c29d6196fbba528689dfa7"><param name="Name" value="m_paddle2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a79cc64d39546f15bb7c9d169e5482444"><param name="Name" value="m_Score1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ad54e91077ec0e426c351258e17fb2137"><param name="Name" value="m_Score2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a97f485fbb53d7daba3590705a5129e60"><param name="Name" value="m_ScoreRect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#aeb0aebe72aa99d1d627260de5d1beafb"><param name="Name" value="m_textureBall"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a7919de4eb9687284ff736962adc6d180"><param name="Name" value="m_textureNumbers"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a2b0b61d9c93d9d11781d2d4a3c6f50d4"><param name="Name" value="m_texturePaddle"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a61c60e00745df4154dde945cde16c7af"><param name="Name" value="MoveBall"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a545c655f415d2de1f372a6eed77e0231"><param name="Name" value="MovePaddles"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a1f794b8a0feab9dfdbf4c98dc86222cf"><param name="Name" value="nameFont"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a13ba97510380dfbf6c00815f4d5af7ad"><param name="Name" value="oldState"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a4613e5c643f7d89e1d4dabb2b383bfad"><param name="Name" value="PADDLE_STRIDE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a87f945d8a88fa041a94fe15c1446173e"><param name="Name" value="paused"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a2ef093c4cac7c244c30664dacecc7aa2"><param name="Name" value="pauseOverlay"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ad22887afd5e5fe23c2d5d218556046ee"><param name="Name" value="Render"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a30e3122abc5d6d6555b394ef9dfea097"><param name="Name" value="ResetGame"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#adcc5e0fb3bc88b1ea3ae2c4c1a06a936"><param name="Name" value="scoreFont"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a6128f974e5abe6615565769664daba1c"><param name="Name" value="SCREEN_HEIGHT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ae69f627158d80a56475c055372115b55"><param name="Name" value="SCREEN_WIDTH"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a887077461615a43e27f62c978affad96"><param name="Name" value="spriteBatch"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a558bcf5c17e9f410d5cceb2f66e2dd67"><param name="Name" value="UnloadContent"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#adcf5d3a66fa192e3318b14188dd0c34a"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html"><param name="Name" value="Ping_Pong::GameObject"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a66385f8db21929ffb9fa7f180db54f95"><param name="Name" value="Height"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a22de23272c1b02fb7bf7b13da7804afb"><param name="Name" value="m_Height"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a5009be35d8fba10d72173a954caef57c"><param name="Name" value="m_Visual"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#ac75ebfdec034a75ed71dbf91eface23f"><param name="Name" value="m_Width"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a292627bfcfe03c2f5a1dc403faa37690"><param name="Name" value="m_X"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a29466cb57b6ac26e58052b2517083745"><param name="Name" value="m_Y"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a2f69360b5ba37b1ebb3cc324244060c2"><param name="Name" value="Rect"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#ab7e73702e83fa5d455e191551fe86b22"><param name="Name" value="Visual"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a828f5327d84be8a61d48534b2dc39e92"><param name="Name" value="Width"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#ada20bb1f95db380d4c1af7c2030b0c1b"><param name="Name" value="X"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#adf561c4e05f7c2f4032d8302e01a3967"><param name="Name" value="Y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_paddle.html"><param name="Name" value="Ping_Pong::Paddle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_program.html"><param name="Name" value="Ping_Pong::Program"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_program.html#a9e475ac6b18638ebfc4895539e7c08ed"><param name="Name" value="Main"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="md__r_e_a_d_m_e.html"><param name="Name" value="Pong Game"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a2f69360b5ba37b1ebb3cc324244060c2"><param name="Name" value="Rect"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ad22887afd5e5fe23c2d5d218556046ee"><param name="Name" value="Render"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a30e3122abc5d6d6555b394ef9dfea097"><param name="Name" value="ResetGame"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#adcc5e0fb3bc88b1ea3ae2c4c1a06a936"><param name="Name" value="scoreFont"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a6128f974e5abe6615565769664daba1c"><param name="Name" value="SCREEN_HEIGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#ae69f627158d80a56475c055372115b55"><param name="Name" value="SCREEN_WIDTH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a887077461615a43e27f62c978affad96"><param name="Name" value="spriteBatch"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#a558bcf5c17e9f410d5cceb2f66e2dd67"><param name="Name" value="UnloadContent"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game1.html#adcf5d3a66fa192e3318b14188dd0c34a"><param name="Name" value="Update"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#ab7e73702e83fa5d455e191551fe86b22"><param name="Name" value="Visual"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#a828f5327d84be8a61d48534b2dc39e92"><param name="Name" value="Width"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#ada20bb1f95db380d4c1af7c2030b0c1b"><param name="Name" value="X"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ping___pong_1_1_game_object.html#adf561c4e05f7c2f4032d8302e01a3967"><param name="Name" value="Y"></OBJECT>
+</UL>
+</BODY>
+</HTML>

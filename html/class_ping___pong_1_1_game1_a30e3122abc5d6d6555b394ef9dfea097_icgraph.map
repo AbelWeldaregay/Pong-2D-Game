@@ -1,0 +1,6 @@
+<map id="Ping_Pong.Game1.ResetGame" name="Ping_Pong.Game1.ResetGame">
+<area shape="rect" id="node2" href="$class_ping___pong_1_1_game1.html#a18d2c9e0d2bb1f3432c54781a8c822e7" title="Ping_Pong.Game1.InitGame\lObjects" alt="" coords="259,5,447,46"/>
+<area shape="rect" id="node4" href="$class_ping___pong_1_1_game1.html#adcf5d3a66fa192e3318b14188dd0c34a" title="Allows the game to run logic such as updating the world, checking for collisions, gathering input..." alt="" coords="499,96,677,123"/>
+<area shape="rect" id="node5" href="$class_ping___pong_1_1_game1.html#a61c60e00745df4154dde945cde16c7af" title="Ping_Pong.Game1.MoveBall" alt="" coords="259,121,448,148"/>
+<area shape="rect" id="node3" href="$class_ping___pong_1_1_game1.html#ae8a0320b8583f5f671dcf98a5ca232df" title="Allows the game to perform any initialization it needs to before starting to run. This is where it ca..." alt="" coords="497,12,679,39"/>
+</map>
