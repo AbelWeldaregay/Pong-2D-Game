@@ -1,0 +1,99 @@
+\contentsline {chapter}{\numberline {1}Pong Game}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Namespace Index}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Namespace List}{3}{section.2.1}
+\contentsline {chapter}{\numberline {3}Hierarchical Index}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}Class Hierarchy}{5}{section.3.1}
+\contentsline {chapter}{\numberline {4}Data Structure Index}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}Data Structures}{7}{section.4.1}
+\contentsline {chapter}{\numberline {5}File Index}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}File List}{9}{section.5.1}
+\contentsline {chapter}{\numberline {6}Namespace Documentation}{11}{chapter.6}
+\contentsline {section}{\numberline {6.1}Package Ping\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Pong}{11}{section.6.1}
+\contentsline {chapter}{\numberline {7}Data Structure Documentation}{13}{chapter.7}
+\contentsline {section}{\numberline {7.1}Ping\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Pong.\discretionary {-}{}{}Ball Class Reference}{13}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Detailed Description}{14}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Field Documentation}{14}{subsection.7.1.2}
+\contentsline {subsubsection}{\numberline {7.1.2.1}m\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}D\discretionary {-}{}{}X}{14}{subsubsection.7.1.2.1}
+\contentsline {subsubsection}{\numberline {7.1.2.2}m\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}D\discretionary {-}{}{}Y}{14}{subsubsection.7.1.2.2}
+\contentsline {subsection}{\numberline {7.1.3}Property Documentation}{14}{subsection.7.1.3}
+\contentsline {subsubsection}{\numberline {7.1.3.1}D\discretionary {-}{}{}X}{14}{subsubsection.7.1.3.1}
+\contentsline {subsubsection}{\numberline {7.1.3.2}D\discretionary {-}{}{}Y}{14}{subsubsection.7.1.3.2}
+\contentsline {section}{\numberline {7.2}Ping\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Pong.\discretionary {-}{}{}Game1 Class Reference}{14}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Detailed Description}{16}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Constructor \& Destructor Documentation}{16}{subsection.7.2.2}
+\contentsline {subsubsection}{\numberline {7.2.2.1}Game1}{16}{subsubsection.7.2.2.1}
+\contentsline {subsection}{\numberline {7.2.3}Member Function Documentation}{16}{subsection.7.2.3}
+\contentsline {subsubsection}{\numberline {7.2.3.1}Collision\discretionary {-}{}{}Occurred}{16}{subsubsection.7.2.3.1}
+\contentsline {subsubsection}{\numberline {7.2.3.2}Draw}{17}{subsubsection.7.2.3.2}
+\contentsline {subsubsection}{\numberline {7.2.3.3}Draw\discretionary {-}{}{}Score}{18}{subsubsection.7.2.3.3}
+\contentsline {subsubsection}{\numberline {7.2.3.4}Init\discretionary {-}{}{}Game\discretionary {-}{}{}Objects}{18}{subsubsection.7.2.3.4}
+\contentsline {subsubsection}{\numberline {7.2.3.5}Initialize}{19}{subsubsection.7.2.3.5}
+\contentsline {subsubsection}{\numberline {7.2.3.6}Init\discretionary {-}{}{}Screen}{19}{subsubsection.7.2.3.6}
+\contentsline {subsubsection}{\numberline {7.2.3.7}Load\discretionary {-}{}{}Content}{19}{subsubsection.7.2.3.7}
+\contentsline {subsubsection}{\numberline {7.2.3.8}Load\discretionary {-}{}{}Game\discretionary {-}{}{}Graphics}{19}{subsubsection.7.2.3.8}
+\contentsline {subsubsection}{\numberline {7.2.3.9}Move\discretionary {-}{}{}Ball}{20}{subsubsection.7.2.3.9}
+\contentsline {subsubsection}{\numberline {7.2.3.10}Move\discretionary {-}{}{}Paddles}{20}{subsubsection.7.2.3.10}
+\contentsline {subsubsection}{\numberline {7.2.3.11}Render}{21}{subsubsection.7.2.3.11}
+\contentsline {subsubsection}{\numberline {7.2.3.12}Reset\discretionary {-}{}{}Game}{21}{subsubsection.7.2.3.12}
+\contentsline {subsubsection}{\numberline {7.2.3.13}Unload\discretionary {-}{}{}Content}{21}{subsubsection.7.2.3.13}
+\contentsline {subsubsection}{\numberline {7.2.3.14}Update}{21}{subsubsection.7.2.3.14}
+\contentsline {subsection}{\numberline {7.2.4}Field Documentation}{22}{subsection.7.2.4}
+\contentsline {subsubsection}{\numberline {7.2.4.1}background}{22}{subsubsection.7.2.4.1}
+\contentsline {subsubsection}{\numberline {7.2.4.2}background\discretionary {-}{}{}Music}{22}{subsubsection.7.2.4.2}
+\contentsline {subsubsection}{\numberline {7.2.4.3}beep}{22}{subsubsection.7.2.4.3}
+\contentsline {subsubsection}{\numberline {7.2.4.4}graphics}{22}{subsubsection.7.2.4.4}
+\contentsline {subsubsection}{\numberline {7.2.4.5}m\discretionary {-}{}{}\_\discretionary {-}{}{}ball}{22}{subsubsection.7.2.4.5}
+\contentsline {subsubsection}{\numberline {7.2.4.6}m\discretionary {-}{}{}\_\discretionary {-}{}{}paddle1}{22}{subsubsection.7.2.4.6}
+\contentsline {subsubsection}{\numberline {7.2.4.7}m\discretionary {-}{}{}\_\discretionary {-}{}{}paddle2}{22}{subsubsection.7.2.4.7}
+\contentsline {subsubsection}{\numberline {7.2.4.8}m\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Score1}{22}{subsubsection.7.2.4.8}
+\contentsline {subsubsection}{\numberline {7.2.4.9}m\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Score2}{23}{subsubsection.7.2.4.9}
+\contentsline {subsubsection}{\numberline {7.2.4.10}m\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Score\discretionary {-}{}{}Rect}{23}{subsubsection.7.2.4.10}
+\contentsline {subsubsection}{\numberline {7.2.4.11}m\discretionary {-}{}{}\_\discretionary {-}{}{}texture\discretionary {-}{}{}Ball}{23}{subsubsection.7.2.4.11}
+\contentsline {subsubsection}{\numberline {7.2.4.12}m\discretionary {-}{}{}\_\discretionary {-}{}{}texture\discretionary {-}{}{}Numbers}{23}{subsubsection.7.2.4.12}
+\contentsline {subsubsection}{\numberline {7.2.4.13}m\discretionary {-}{}{}\_\discretionary {-}{}{}texture\discretionary {-}{}{}Paddle}{23}{subsubsection.7.2.4.13}
+\contentsline {subsubsection}{\numberline {7.2.4.14}name\discretionary {-}{}{}Font}{23}{subsubsection.7.2.4.14}
+\contentsline {subsubsection}{\numberline {7.2.4.15}old\discretionary {-}{}{}State}{23}{subsubsection.7.2.4.15}
+\contentsline {subsubsection}{\numberline {7.2.4.16}P\discretionary {-}{}{}A\discretionary {-}{}{}D\discretionary {-}{}{}D\discretionary {-}{}{}L\discretionary {-}{}{}E\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}S\discretionary {-}{}{}T\discretionary {-}{}{}R\discretionary {-}{}{}I\discretionary {-}{}{}D\discretionary {-}{}{}E}{23}{subsubsection.7.2.4.16}
+\contentsline {subsubsection}{\numberline {7.2.4.17}paused}{23}{subsubsection.7.2.4.17}
+\contentsline {subsubsection}{\numberline {7.2.4.18}pause\discretionary {-}{}{}Overlay}{23}{subsubsection.7.2.4.18}
+\contentsline {subsubsection}{\numberline {7.2.4.19}score\discretionary {-}{}{}Font}{23}{subsubsection.7.2.4.19}
+\contentsline {subsubsection}{\numberline {7.2.4.20}S\discretionary {-}{}{}C\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}H\discretionary {-}{}{}E\discretionary {-}{}{}I\discretionary {-}{}{}G\discretionary {-}{}{}H\discretionary {-}{}{}T}{23}{subsubsection.7.2.4.20}
+\contentsline {subsubsection}{\numberline {7.2.4.21}S\discretionary {-}{}{}C\discretionary {-}{}{}R\discretionary {-}{}{}E\discretionary {-}{}{}E\discretionary {-}{}{}N\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}W\discretionary {-}{}{}I\discretionary {-}{}{}D\discretionary {-}{}{}T\discretionary {-}{}{}H}{24}{subsubsection.7.2.4.21}
+\contentsline {subsubsection}{\numberline {7.2.4.22}sprite\discretionary {-}{}{}Batch}{24}{subsubsection.7.2.4.22}
+\contentsline {section}{\numberline {7.3}Ping\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Pong.\discretionary {-}{}{}Game\discretionary {-}{}{}Object Class Reference}{24}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Detailed Description}{24}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Field Documentation}{25}{subsection.7.3.2}
+\contentsline {subsubsection}{\numberline {7.3.2.1}m\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Height}{25}{subsubsection.7.3.2.1}
+\contentsline {subsubsection}{\numberline {7.3.2.2}m\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Visual}{25}{subsubsection.7.3.2.2}
+\contentsline {subsubsection}{\numberline {7.3.2.3}m\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Width}{25}{subsubsection.7.3.2.3}
+\contentsline {subsubsection}{\numberline {7.3.2.4}m\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}X}{25}{subsubsection.7.3.2.4}
+\contentsline {subsubsection}{\numberline {7.3.2.5}m\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Y}{25}{subsubsection.7.3.2.5}
+\contentsline {subsection}{\numberline {7.3.3}Property Documentation}{25}{subsection.7.3.3}
+\contentsline {subsubsection}{\numberline {7.3.3.1}Height}{25}{subsubsection.7.3.3.1}
+\contentsline {subsubsection}{\numberline {7.3.3.2}Rect}{25}{subsubsection.7.3.3.2}
+\contentsline {subsubsection}{\numberline {7.3.3.3}Visual}{25}{subsubsection.7.3.3.3}
+\contentsline {subsubsection}{\numberline {7.3.3.4}Width}{25}{subsubsection.7.3.3.4}
+\contentsline {subsubsection}{\numberline {7.3.3.5}X}{25}{subsubsection.7.3.3.5}
+\contentsline {subsubsection}{\numberline {7.3.3.6}Y}{25}{subsubsection.7.3.3.6}
+\contentsline {section}{\numberline {7.4}Ping\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Pong.\discretionary {-}{}{}Paddle Class Reference}{26}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Detailed Description}{26}{subsection.7.4.1}
+\contentsline {section}{\numberline {7.5}Ping\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}Pong.\discretionary {-}{}{}Program Class Reference}{26}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Detailed Description}{27}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}Member Function Documentation}{27}{subsection.7.5.2}
+\contentsline {subsubsection}{\numberline {7.5.2.1}Main}{27}{subsubsection.7.5.2.1}
+\contentsline {chapter}{\numberline {8}File Documentation}{29}{chapter.8}
+\contentsline {section}{\numberline {8.1}Pong Base/\discretionary {-}{}{}Ball.cs File Reference}{29}{section.8.1}
+\contentsline {section}{\numberline {8.2}Pong Base/\discretionary {-}{}{}Game1.cs File Reference}{29}{section.8.2}
+\contentsline {section}{\numberline {8.3}Pong Base/\discretionary {-}{}{}Game\discretionary {-}{}{}Object.cs File Reference}{29}{section.8.3}
+\contentsline {section}{\numberline {8.4}Pong Base/obj/x86/\discretionary {-}{}{}Debug/\discretionary {-}{}{}Pong Base.\discretionary {-}{}{}csproj.\discretionary {-}{}{}File\discretionary {-}{}{}List\discretionary {-}{}{}Absolute.\discretionary {-}{}{}txt File Reference}{30}{section.8.4}
+\contentsline {section}{\numberline {8.5}Pong Base/obj/x86/\discretionary {-}{}{}Release/\discretionary {-}{}{}Pong Base.\discretionary {-}{}{}csproj.\discretionary {-}{}{}File\discretionary {-}{}{}List\discretionary {-}{}{}Absolute.\discretionary {-}{}{}txt File Reference}{30}{section.8.5}
+\contentsline {section}{\numberline {8.6}Pong Base/obj/x86/\discretionary {-}{}{}Debug/\discretionary {-}{}{}Temporary\discretionary {-}{}{}Generated\discretionary {-}{}{}File\discretionary {-}{}{}\_\discretionary {-}{}{}036\discretionary {-}{}{}C0\discretionary {-}{}{}B5\discretionary {-}{}{}B-\/1481-\/4323-\/8\discretionary {-}{}{}D20-\/8\discretionary {-}{}{}F5\discretionary {-}{}{}A\discretionary {-}{}{}D\discretionary {-}{}{}C\discretionary {-}{}{}B23\discretionary {-}{}{}D92.cs File Reference}{30}{section.8.6}
+\contentsline {section}{\numberline {8.7}Pong Base/obj/x86/\discretionary {-}{}{}Release/\discretionary {-}{}{}Temporary\discretionary {-}{}{}Generated\discretionary {-}{}{}File\discretionary {-}{}{}\_\discretionary {-}{}{}036\discretionary {-}{}{}C0\discretionary {-}{}{}B5\discretionary {-}{}{}B-\/1481-\/4323-\/8\discretionary {-}{}{}D20-\/8\discretionary {-}{}{}F5\discretionary {-}{}{}A\discretionary {-}{}{}D\discretionary {-}{}{}C\discretionary {-}{}{}B23\discretionary {-}{}{}D92.cs File Reference}{30}{section.8.7}
+\contentsline {section}{\numberline {8.8}Pong Base/obj/x86/\discretionary {-}{}{}Debug/\discretionary {-}{}{}Temporary\discretionary {-}{}{}Generated\discretionary {-}{}{}File\discretionary {-}{}{}\_\discretionary {-}{}{}5937a670-\/0e60-\/4077-\/877b-\/f7221da3dda1.cs File Reference}{30}{section.8.8}
+\contentsline {section}{\numberline {8.9}Pong Base/obj/x86/\discretionary {-}{}{}Release/\discretionary {-}{}{}Temporary\discretionary {-}{}{}Generated\discretionary {-}{}{}File\discretionary {-}{}{}\_\discretionary {-}{}{}5937a670-\/0e60-\/4077-\/877b-\/f7221da3dda1.cs File Reference}{30}{section.8.9}
+\contentsline {section}{\numberline {8.10}Pong Base/obj/x86/\discretionary {-}{}{}Debug/\discretionary {-}{}{}Temporary\discretionary {-}{}{}Generated\discretionary {-}{}{}File\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}E7\discretionary {-}{}{}A71\discretionary {-}{}{}F73-\/0\discretionary {-}{}{}F8\discretionary {-}{}{}D-\/4\discretionary {-}{}{}B9\discretionary {-}{}{}B-\/\discretionary {-}{}{}B56\discretionary {-}{}{}E-\/8\discretionary {-}{}{}E70\discretionary {-}{}{}B10\discretionary {-}{}{}B\discretionary {-}{}{}C5\discretionary {-}{}{}D3.cs File Reference}{30}{section.8.10}
+\contentsline {section}{\numberline {8.11}Pong Base/obj/x86/\discretionary {-}{}{}Release/\discretionary {-}{}{}Temporary\discretionary {-}{}{}Generated\discretionary {-}{}{}File\discretionary {-}{}{}\_\discretionary {-}{}{}\discretionary {-}{}{}E7\discretionary {-}{}{}A71\discretionary {-}{}{}F73-\/0\discretionary {-}{}{}F8\discretionary {-}{}{}D-\/4\discretionary {-}{}{}B9\discretionary {-}{}{}B-\/\discretionary {-}{}{}B56\discretionary {-}{}{}E-\/8\discretionary {-}{}{}E70\discretionary {-}{}{}B10\discretionary {-}{}{}B\discretionary {-}{}{}C5\discretionary {-}{}{}D3.cs File Reference}{30}{section.8.11}
+\contentsline {section}{\numberline {8.12}Pong Base/\discretionary {-}{}{}Paddle.cs File Reference}{30}{section.8.12}
+\contentsline {section}{\numberline {8.13}Pong Base/\discretionary {-}{}{}Program.cs File Reference}{30}{section.8.13}
+\contentsline {section}{\numberline {8.14}Pong Base/\discretionary {-}{}{}Properties/\discretionary {-}{}{}Assembly\discretionary {-}{}{}Info.cs File Reference}{31}{section.8.14}
+\contentsline {section}{\numberline {8.15}R\discretionary {-}{}{}E\discretionary {-}{}{}A\discretionary {-}{}{}D\discretionary {-}{}{}M\discretionary {-}{}{}E.\discretionary {-}{}{}md File Reference}{31}{section.8.15}
