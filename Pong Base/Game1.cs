@@ -60,7 +60,7 @@ namespace Ping_Pong
         protected override void Initialize()
         {
             graphics.ApplyChanges();
-            // use a fixed frame rate of 30 frames per second
+            // use a fixed frame rate of 15 frames per second
             IsFixedTimeStep = true;
             TargetElapsedTime = new TimeSpan(0, 0, 0, 0, 15);
 
