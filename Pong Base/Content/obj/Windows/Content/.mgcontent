@@ -4,18 +4,18 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/beep.wav</File>
-    <File>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/ball.bmp</File>
-    <File>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/ball_red.png</File>
-    <File>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/numbers.bmp</File>
-    <File>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/paddle.bmp</File>
-    <File>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/melodyloops-preview-epic-inspirational-trailer-2m30s.mp3</File>
-    <File>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/Name.spritefont</File>
-    <File>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/pause_overlay.png</File>
-    <File>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/ping-pong-game.png</File>
-    <File>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/pong_background.png</File>
-    <File>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/Score.spritefont</File>
-    <File>Y:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/score_sound.mp3</File>
+    <File>X:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/beep.wav</File>
+    <File>X:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/ball.bmp</File>
+    <File>X:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/ball_red.png</File>
+    <File>X:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/numbers.bmp</File>
+    <File>X:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/media/paddle.bmp</File>
+    <File>X:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/melodyloops-preview-epic-inspirational-trailer-2m30s.mp3</File>
+    <File>X:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/Name.spritefont</File>
+    <File>X:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/pause_overlay.png</File>
+    <File>X:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/ping-pong-game.png</File>
+    <File>X:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/pong_background.png</File>
+    <File>X:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/Score.spritefont</File>
+    <File>X:/Downloads/Pong Base(1)/Pong Base/Pong Base/Content/score_sound.mp3</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
